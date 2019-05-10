@@ -8,7 +8,7 @@ A mySQL database contains x/y/z coordinates.
 
 
 
-The dataset I used is from velodynelidar.com and is a 3D scan.
+The dataset I used is from [Velodyne](https://www.velodynelidar.com) and is a 3D scan.
 
 Result should look like this:
 
